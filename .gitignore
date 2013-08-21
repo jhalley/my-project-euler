@@ -1,0 +1,6 @@
+*.pyc
+*.pyc
+*.swp
+
+# OS Files
+._*
