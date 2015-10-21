@@ -3,4 +3,4 @@ Contains my solutions to various Project Euler problems.
 I'm doing this partly because I don't want to lose my solutions again the next time my computer dies (which is why this not a complete set). 
 This is an ongoing weekend project of mine. Hopefully, I'll answer everything eventually.
 
-Solutions are coded in python. Not necessarily the most optimal solutions, but they all run below 1 min on my laptop.
+Solutions are coded in python. Not necessarily the most optimal solutions, but they all run below 1 min on my laptop (macbook air 2014)
